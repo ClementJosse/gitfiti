@@ -234,6 +234,7 @@ ONEUP_STR = str_to_sprite('''
 
 
 IMAGES = {
+  'turtle': TURTLE,
   'kitty': KITTY,
   'oneup': ONEUP,
   'oneup2': ONEUP2,
